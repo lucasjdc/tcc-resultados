@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dados
+resultados/
+matrizes/
